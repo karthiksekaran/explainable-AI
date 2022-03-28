@@ -1,1 +1,6 @@
-# explainable-AI
+# Interpreting the Factors of Employee Attrition using Explainable AI 
+
+* Employee attrition is a great challenge for every organization. The growth of any organization directly depends on talented employees. Each employee is considered as a 
+resource, trained over years on crucial skills, builds dependency over critical positions in an organization. There exists several reasons behind the decision made by the employee. It is the responsibility of the organization to identify the attrition of employees as it creates many implications for the processes. 
+
+* Retention of the employee, in turn, reduces the burden of hiring new candidates, increases stability, reduces wasting time on training, etc. To address this key challenge, a sophisticated interpretation model is employed to trace out the reason for attrition. This concept demonstrates the efficacy of two powerful Explainable AI (XAI) models named Local Interpretable Model-Agnostic Explainer (LIME) and Shapley Additive eXplainer (SHAP) on interpreting the factors deciding employee attrition. These models unveiled logical insights from the data that could assist the management authorities in countermeasure the risk of employee attrition.
